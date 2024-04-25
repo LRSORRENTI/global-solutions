@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Luke's Travels",
-  description: "Simple travel blog page using Next, and AceternityUI",
+  title: "Global Solutions",
+  description: "Global Solutions business page using Next, and AceternityUI",
 };
 
 export default function RootLayout({
